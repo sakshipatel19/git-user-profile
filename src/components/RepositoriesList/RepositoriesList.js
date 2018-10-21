@@ -8,5 +8,4 @@ const RepositoriesList = (props) => {
     </div>
   )
 }
-
-export default RepositoriesList
+export default RepositoriesList;
