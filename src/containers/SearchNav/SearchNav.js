@@ -47,7 +47,7 @@ class SearchNav extends React.Component {
             <button className="new"><i className="fa " aria-hidden="true"></i>New</button>
           </div>
         </div>
-        { this.state.repositories ? repoList :null }
+        { this.state.repositories ? repoList : null }
       </div>
     )
   }
